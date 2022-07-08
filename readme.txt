@@ -1,0 +1,1 @@
+replace gsm number in test.py and launch the launch :)
